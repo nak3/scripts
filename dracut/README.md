@@ -40,3 +40,7 @@ You can copy module-setup.sh or create by yourself.
     lrwxrwxrwx   1 root     root           10 Nov 28 20:45 usr/bin/emacs -> emacs-24.4
     -rw-r--r--   1 root     root          775 Oct  6 22:49 usr/lib/kbd/keymaps/legacy/i386/qwerty/emacs2.map.gz
     -rw-r--r--   1 root     root          987 Oct  6 22:49 usr/lib/kbd/keymaps/legacy/i386/qwerty/emacs.map.gz
+
+Other link
+---
+https://www.kernel.org/pub/linux/utils/boot/dracut/dracut.html
